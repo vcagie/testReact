@@ -1,50 +1,52 @@
-[
-    {
-        "id":1,
-        "nama": "Andre Johan Putra",
-        "position": "Leader Bangke",
-        "keunggulan": "Otak Otot"
-    },
-    {
-        "id":2,
-        "nama": "Heryadi Maryanto",
-        "position": "Vice Leader Branch 1",
-        "keunggulan": "Leader bestie"
-    },
-    {
-        "id":3,
-        "nama": "Tony Andreas",
-        "position": "Vice Leader Branch 2",
-        "keunggulan": "Y.O.L.O"
-    },
-    {
-        "id":4,
-        "nama": "Eagar Satya",
-        "position": "Member Branch 1",
-        "keunggulan": "Ahli Strategi"
-    },
-    {
-        "id":5,
-        "nama": "Steven Jonathan",
-        "position": "Member Branch 2",
-        "keunggulan": "Ahli Cewe"
-    },
-    {
-        "id":6,
-        "nama": "Ferdryan Cen",
-        "position": "Member Branch 1",
-        "keunggulan": "Ahli Musik"
-    },
-    {
-        "id":7,
-        "nama": "Geraldy Oscar Reinard",
-        "position": "Member Branch 2",
-        "keunggulan": "Hesitation is Defeat"
-    },
-    {
-        "id":8,
-        "nama": "Vernando Cahyadi",
-        "position": "Supervisor :)",
-        "keunggulan": "Ajak Leader Kelahi"
-    },
-]
+{
+    "posts": [
+        {
+            "id":1,
+            "nama": "Andre Johan Putra",
+            "position": "Leader Bangke",
+            "keunggulan": "Otak Otot"
+        },
+        {
+            "id":2,
+            "nama": "Heryadi Maryanto",
+            "position": "Vice Leader Branch 1",
+            "keunggulan": "Leader bestie"
+        },
+        {
+            "id":3,
+            "nama": "Tony Andreas",
+            "position": "Vice Leader Branch 2",
+            "keunggulan": "Y.O.L.O"
+        },
+        {
+            "id":4,
+            "nama": "Eagar Satya",
+            "position": "Member Branch 1",
+            "keunggulan": "Ahli Strategi"
+        },
+        {
+            "id":5,
+            "nama": "Steven Jonathan",
+            "position": "Member Branch 2",
+            "keunggulan": "Ahli Cewe"
+        },
+        {
+            "id":6,
+            "nama": "Ferdryan Cen",
+            "position": "Member Branch 1",
+            "keunggulan": "Ahli Musik"
+        },
+        {
+            "id":7,
+            "nama": "Geraldy Oscar Reinard",
+            "position": "Member Branch 2",
+            "keunggulan": "Hesitation is Defeat"
+        },
+        {
+            "id":8,
+            "nama": "Vernando Cahyadi",
+            "position": "Supervisor :)",
+            "keunggulan": "Ajak Leader Kelahi"
+        },
+    ]
+}
