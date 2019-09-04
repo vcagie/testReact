@@ -1,4 +1,4 @@
-{
+[
     {
         "id":1,
         "nama": 'Andre Johan Putra',
@@ -47,4 +47,4 @@
         "position": 'Supervisor :)',
         "keunggulan": 'Ajak Leader Kelahi'
     },
-}
+]
